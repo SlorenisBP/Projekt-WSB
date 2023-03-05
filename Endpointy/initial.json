@@ -1,20 +1,29 @@
+
 {
-"destination": [
-		{
-			"id": 1,
-			"name": "Warsaw"
-		},
-		{
-			"id": 2,
-			"name": "Katowice"
-		},
-		{
-			"id": 3,
-			"name": "Krakow"
-		}
-        {
-			"id": 3,
-			"name": "Wroclaw"
-		}
-	]
-}
+    "destination": [
+            {
+                "id": 1,
+                "value": "warsaw",
+                "name": "Warszawa",
+                "code": "wrw"
+            },
+            {
+                "id": 2,
+                "value": "paris",
+                "name": "Paryż",
+                "code": "cdg"
+            },
+            {
+                "id": 3,
+                "value": "prague",
+                "name": "Praga",
+                "code": "prg"
+            },
+            {
+                "id": 1,
+                "value": "newjork",
+                "name": "Nowy Jork",
+                "code": "jfk"
+            }
+        ]
+    }
