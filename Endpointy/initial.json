@@ -1,6 +1,6 @@
 
 {
-    "destination": [
+    "destinations": [
             {
                 "id": 1,
                 "value": "warsaw",
@@ -20,7 +20,7 @@
                 "code": "prg"
             },
             {
-                "id": 1,
+                "id": 4,
                 "value": "newjork",
                 "name": "Nowy Jork",
                 "code": "jfk"
