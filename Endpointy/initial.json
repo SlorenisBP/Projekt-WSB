@@ -1,5 +1,5 @@
 {
-"name": "Blaise"
+"name": "Blaise",
 "employees":[
         {"firstName":"John", "lastName":"Doe"},
         {"firstName":"Anna", "lastName":"Smith"},
